@@ -1,0 +1,20 @@
+{
+   "routes":[
+    {
+        "src": "/","dest": "/"
+    },
+    {
+        "src": "/auth/login","dest": "/auth/login"
+    },{
+        "src": "/auth/register","dest": "/auth/register"
+    },{
+        "src": "/dashboard/productos","dest": "/dashboard/productos"
+    },{
+        "src": "/dashboard/pedidos","dest": "/dashboard/pedidos"
+    },{
+        "src": "/admin/new_products","dest": "/admin/new_products"
+    },{
+        "src": "/admin/edit_products","dest": "/admin/edit_products"
+    }
+   ] 
+}
